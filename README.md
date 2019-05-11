@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-<img src="src/images/github/kross-homepage.gif"  style="width:100%" alt="kross portfolio template by themefisher">
+<img src="src/images/github/kross-homepage.gif"  width="100%" alt="kross portfolio template by themefisher">
 </div>
 
 **Kross Portfolio Templates** - Kross is a creative, sleek and modern portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics. The minimal interface with the necessary sections will surely help the visitors to get a thorough idea about your works.Put together beginners in mind, kross is very easy to use and built with a clean and valid international standard coding structure.
