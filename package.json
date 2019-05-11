@@ -1,0 +1,30 @@
+{
+  "name": "themefisher-starter-kit",
+  "version": "1.1.0",
+  "description": "Gulp environment for creating HTML themes for themefisher",
+  "keywords": [
+    "gulp",
+    "frontend"
+  ],
+  "author": "Themefisher",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-file-include": "^2.0.1",
+    "gulp-gm": "0.0.9",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-zip": "^4.1.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "run-sequence": "^2.2.1"
+  }
+}
