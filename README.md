@@ -1,16 +1,14 @@
 <div align="center">
 
-# <a href="https://sleek.tafcoder.com/" target="_blank" rel="noopener noreferrer">Kross Creative Portfolio Template (MIT License)</a>
+# <a href="https://themefisher.com/" target="_blank" rel="noopener noreferrer">Kross Creative Portfolio Template (MIT License)</a>
 
 </div>
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/themefisher/kross-bootstrap-portfolio-template.svg?color="brightgreen"&style=flat-square)](https://github.com/tafcoder/sleek-dashboard/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themefisher/kross-bootstrap-portfolio-template.svg?color="success"&style=flat-square)](https://github.com/tafcoder/sleek-dashboard/network)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themefisher/kross-bootstrap-portfolio-template.svg?color="orange"&style=flat-square)]() 
-<a href="https://coveralls.io/github/chartjs/Chart.js?branch=master"><img src="https://img.shields.io/coveralls/chartjs/Chart.js.svg?&style=flat-square&maxAge=600" alt="Coverage"></a>
-<a href="https://github.com/chartjs/awesome"><img src="https://awesome.re/badge-flat2.svg?&style=flat-square" alt="Awesome"></a>
+![GitHub stars](https://img.shields.io/github/stars/themefisher/kross-bootstrap-portfolio-template.svg?color="brightgreen"&style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/themefisher/kross-bootstrap-portfolio-template.svg?color="success"&style=flat-square)
+![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themefisher/kross-bootstrap-portfolio-template.svg?color="orange"&style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg?&style=flat-square)
 
 </div>
