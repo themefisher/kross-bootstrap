@@ -27,6 +27,7 @@
 - [Reporting Issues](#reporting-issues)
 - [Technical Support or Questions](#technical-support-or-questions)
 - [Licensing](#licensing)
+- [More Portfolio Templates](https://themefisher.com/bootstrap-portfolio-templates/)
 
 ## Demo
 
