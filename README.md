@@ -1,67 +1,81 @@
-<div align="center">
-
-# <a href="https://themefisher.com/" target="_blank" rel="noopener noreferrer">Kross Creative Portfolio Template (MIT License)</a>
-
-</div>
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/themefisher/kross-bootstrap-portfolio-template.svg?color="brightgreen"&style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/themefisher/kross-bootstrap-portfolio-template.svg?color="success"&style=flat-square)
-![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/themefisher/kross-bootstrap-portfolio-template.svg?color="orange"&style=flat-square)
-![license](https://img.shields.io/badge/license-MIT-blue.svg?&style=flat-square)
-
-</div>
-
-<div align="center">
-<img src="src/images/github/kross-homepage.gif"  width="100%" alt="kross portfolio template by themefisher">
-</div>
-
-**Kross Portfolio Templates** - Kross is a creative, sleek and modern portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics. The minimal interface with the necessary sections will surely help the visitors to get a thorough idea about your works.Put together beginners in mind, kross is very easy to use and built with a clean and valid international standard coding structure.
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Plugins](#plugins)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
-- [Licensing](#licensing)
-- [More Portfolio Templates](https://themefisher.com/bootstrap-portfolio-templates/)
-
-## Demo
-
-| Homepage  | About  | Blog  | Portfolio  | Contact  |
-|---|---|---|---|---|
-| [![Homepage](src/images/github/homepage.png)](http://demo.themefisher.com/kross/)  | [![About](src/images/github/about.png)](http://demo.themefisher.com/kross/about.html) | [![Blog](src/images/github/blog.png)](http://demo.themefisher.com/kross/blog.html) | [![portfolio](src/images/github/portfolio.png)](http://demo.themefisher.com/kross/portfolio.html) | [![contact](src/images/github/contact.png)](http://demo.themefisher.com/kross/contact.html)
-
-[Live Preview](http://demo.themefisher.com/kross).
-
-## Quick Start
-Quick start options:
-
-- Clone the repo: `git clone https://github.com/themefisher/kross-bootstrap-portfolio-template.git`.
-- [Download from Github](https://github.com/themefisher/kross-bootstrap-portfolio-template/archive/master.zip).
-- [Download from themefisher website](https://themefisher.com/products/kross-creative-portfolio-template).
-
-## Plugins
-* Bootstrap - http://getbootstrap.com
-* Jquery - 	http://www.chartjs.org/
-* Shuffle - 	https://vestride.github.io/Shuffle/
-* slick slider - 	https://kenwheeler.github.io/slick/
-* Themify Icons - 	https://themify.me/themify-icons
+# Kross By Themefisher
+Kross is a creative, sleek and modern personal portfolio website template with a gorgeous appearance. It appears with an amazing, stunning graphics.
 
 
+<!-- demo -->
+## Example Site
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/kross/) | [![](screenshots/about.png)](https://demo.themefisher.com/kross/about.html) | [![](screenshots/portfolio.png)](https://demo.themefisher.com/kross/portfolio.html) |
+|:---:|:---:|:---:|
+| **Home**  | **About**  | **Portfolio** |
+| [![](screenshots/blog.png)](https://demo.themefisher.com/kross/blog.html) | [![](screenshots/blog-details.png)](https://demo.themefisher.com/kross/blog-single.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/kross/contact.html) |
+| **Blog** | **Blog Details** | **Contact** |
+
+👉🏻[View Live Preview](https://demo.themefisher.com/kross/)
+
+
+<!-- download -->
+## Download And installation
+Download this template from any following options:
+
+* Download from [Github](https://github.com/themefisher/Kross-Creative-Portfolio-Template/archive/master.zip)
+* Clone the repository: `git clone https://github.com/themefisher/Kross-Creative-Portfolio-Template.git`
+* Download from [Themefisher](https://themefisher.com/products/kross-creative-portfolio-template/)
+
+
+<!-- installation -->
+### Basic Usage
+After downloading template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+
+### Advanced Usage
+For advanced usage you have some dependencies to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+
+#### Install Dependencies
+* **Node Installation:** [Install node js](https://nodejs.org/en/download/)
+* **Gulp Installation:** Install gulp globally from your terminal 
+```
+npm install --global gulp-cli
+```
+Or visit original [docs](https://gulpjs.com/docs/en/getting-started/quick-start)
+
+#### Run Theme
+After succesfully install those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+
+* Install node package modules
+```
+npm install
+```
+* Run gulp
+```
+gulp
+```
+After that, it will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved.
+
+👉🏻 [visit documentation](https://docs.themefisher.com/kross/)
+
+
+<!-- reporting issue -->
 ## Reporting Issues
+We use GitHub Issues as the official bug tracker for the Kross Template. Please Search [existing issues](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Kross-Creative-Portfolio-Template/issues).
 
-We use GitHub Issues as the official bug tracker for the **Kross Theme**. Please Search [existing issues](https://github.com/themefisher/kross-bootstrap-portfolio-template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/kross-bootstrap-portfolio-template/issues/new)
+<!-- support -->
+## Technical Support or Questions (Paid)
+If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
-## Technical Support or Questions
+<!-- licence -->
+## License
+Copyright &copy; 2021 Designed & Developed by [Themefisher](https://themefisher.com)
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
+**Code License:** Released under the [MIT](https://github.com/themefisher/Kross-Creative-Portfolio-Template/blob/master/LICENSE) license.
 
-## Licensing
+**Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
 
-- Copyright 2019 Themefisher (https://themefisher.com/)
-- Licensed under MIT (https://github.com/themefisher/kross-bootstrap-portfolio-template/blob/master/LICENSE)
+<!-- resources -->
+## Resources
+Some third-party plugins that we used to build this template. Please check their licence.
+* **Bootstrap v4.5**: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+* **Jquery v3.5.1**: https://jquery.com/download/
+* **Google Fonts**: http://fonts.google.com/
+* **Themify Icons**: https://themify.me/themify-icons/
+* **Slick**: https://kenwheeler.github.io/slick/
+* **Shuffle**: https://vestride.github.io/Shuffle/
