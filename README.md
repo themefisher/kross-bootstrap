@@ -12,6 +12,15 @@ Kross is a creative, sleek and modern personal portfolio website template with a
 
 👉🏻[View Live Preview](https://demo.themefisher.com/kross/)
 
+<!-- pages -->
+## Pages
+* **Homepage**
+* **About**
+* **Portfolio**
+* **Blog**
+* **Blog Details**
+* **Contact**
+
 
 <!-- download -->
 ## Download And installation
