@@ -47,7 +47,7 @@ npm install --global gulp-cli
 Or visit original [docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
 #### Run Theme
-After succesfully install those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+After successfully install those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
 
 * Install node package modules
 ```
