@@ -834,6 +834,11 @@ blockquote {
   right: -220px;
   bottom: -100px;
 }
+@media (max-width: 1200px) {
+  .page-title .bg-shape-7 {
+    right: 0;
+  }
+}
 
 .filter-controls li {
   cursor: pointer;
