@@ -1,37 +1,21 @@
-/*!
-THEME: Kross - Creative Portfolio Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
+@import "variables";
 
-HOMEPAGE: https://themefisher.com/products/kross-creative-portfolio-template/
-DEMO: https://demo.themefisher.com/kross/
-GITHUB: https://github.com/themefisher/meghna-onepage-html5-business-template
+@import "mixins";
 
-Get HUGO Version : https://gethugothemes.com/products/kross-hugo-theme/
+@import "typography";
 
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
-*/
+@import "buttons";
 
-@import 'variables';
+@import "common";
 
-@import 'mixins';
+@import "templates/navigation";
 
-@import 'typography';
+@import "templates/hero-area";
 
-@import 'buttons';
+@import "templates/homepage";
 
-@import 'common';
+@import "templates/blog";
 
-@import 'templates/navigation';
+@import "templates/about";
 
-@import 'templates/hero-area';
-
-@import 'templates/homepage';
-
-@import 'templates/blog';
-
-@import 'templates/about';
-
-@import 'templates/portfolio';
+@import "templates/portfolio";
